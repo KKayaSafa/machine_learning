@@ -1,4 +1,4 @@
-# Price Prediction Using Spark ML
+# 1. Price Prediction Using Spark ML
 
 ## Overview
 This project leverages Apache Spark ML to build a regression model for predicting house prices based on the California Housing Prices dataset. The dataset contains various features, such as location, number of rooms, and median income, which influence housing prices. The model is trained and evaluated using different regression algorithms.
@@ -101,7 +101,11 @@ This project demonstrates the use of **Apache Spark ML** for regression modeling
 
 
 
-# Stock Time Series Classification
+
+
+
+
+# 2. Stock Time Series Classification
 
 ## Overview
 This project focuses on classifying stocks based on their sectoral similarities using time-series analysis. The goal is to determine which sector a given stock belongs to by analyzing its historical price movements. The approach involves data collection, preprocessing, feature extraction, model training, and evaluation.
